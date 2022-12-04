@@ -1,8 +1,9 @@
 #  <a name="title"> Levantamento dos Dados ENEM 2021 </a>
 Análise dos Dados Enem 2021 - BigData - Projeto SEMANTIX
 
-Como a base de dados é muito grande, segue o link da base de dados dos Microdados Enem 2021 -> https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem 
-Este projeto do curso da SEMANTIX, foi desenvolvido com o objetivo de fazer um levantamento dos DADOS do ENEM 2021, por região/estado e assim, realizar um comparativo entre dados de alunos que frequentam escola públicas e privadas. Com isso, foi realizado um dataset, este foi tratado por região e estado, afim de uma melhor compreensão dos dados coletados no ENEM 2021.
+Como a base de dados é muito grande, segue o link da base de dados dos Microdados Enem 2021 -> https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem
+
+###Este projeto do curso da SEMANTIX, foi desenvolvido com o objetivo de fazer um levantamento dos DADOS do ENEM 2021, por região/estado e assim, realizar um comparativo entre dados de alunos que frequentam escola públicas e privadas. Com isso, foi realizado um dataset, este foi tratado por região e estado, afim de uma melhor compreensão dos dados coletados no ENEM 2021.
 
 #  <a name="indice">  Índice </a>
 
